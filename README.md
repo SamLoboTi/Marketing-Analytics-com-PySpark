@@ -1,5 +1,7 @@
 # Marketing Analytics com PySpark
 
+![Marketing Analytics com PySpark em um workspace de dados](assets/marketing-pyspark-workspace.png)
+
 Projeto de portfólio que simula o pipeline analítico de uma empresa de marketing digital. A solução transforma dados de clientes, campanhas, interações e vendas em indicadores acionáveis, arquivos analíticos, gráficos e um dashboard HTML.
 
 ## Problema de negócio
